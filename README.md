@@ -22,4 +22,6 @@ In this task we use Iris Flower dataset to predict the species of a flower givin
 ## [Clustering](https://github.com/Nemat-Allah-Aloush/Machine-Learning-with-Python/blob/main/Clustering.ipynb)
 In this file we can find a simple explination about Clustering and K-Means algorithm.
 
-## [Hidden Markov Models]()
+## [Hidden Markov Models](https://github.com/Nemat-Allah-Aloush/Machine-Learning-with-Python/blob/main/Hidden_Markov_Models.ipynb)
+In this file, Hidden Markov Models are simply explained and then an example was developed.
+The task was to build a weather model that can predict the weather on any given day, given the probability of different events occuring.
