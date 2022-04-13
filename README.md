@@ -35,4 +35,5 @@ In this file we can find a simple explination about Clustering and K-Means algor
 In this file, Hidden Markov Models are simply explained and then an example was developed.
 The task was to build a weather model that can predict the weather on any given day, given the probability of different events occuring.
 
-## [Neural Networks](#)
+## [Neural Networks](#https://github.com/Nemat-Allah-Aloush/Machine-Learning-with-Python/blob/main/Neural_Network.ipynb)
+In this file, there is a simple explination about the basics of a neural network. Moreover, there is an example of building a neural network to predict the content of an image based on the Fashion MNIST dataset from Keras.
