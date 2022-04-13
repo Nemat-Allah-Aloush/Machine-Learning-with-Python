@@ -13,7 +13,7 @@ Tasks associated with the course Machine Learning with Python in  freeCodeCamp
   
   2.4 [Hidden Markov Models](#hidden-markov-models)
   
-3. Neural Networks(#neural-networks)
+3. [Neural Networks](#neural-networks)
 4. Natural Language Processing
 5. Reinforcement Learning
 
