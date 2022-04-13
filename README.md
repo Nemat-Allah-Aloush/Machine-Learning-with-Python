@@ -5,15 +5,15 @@ Tasks associated with the course Machine Learning with Python in  freeCodeCamp
 1. [Introduction to Tensorflow](#introduction-to-tensorflow)
 2. [Core Algorithms](#core-algoritms)
   
-  2.1 [Linear Regression](#linear-regression)
+    2.1 [Linear Regression](#linear-regression)
   
-  2.2 [Classification](#classification)
+    2.2 [Classification](#classification)
   
-  2.3 [Clustering](#clustering)
+    2.3 [Clustering](#clustering)
   
-  2.4 [Hidden Markov Models](#hidden-markov-models)
+    2.4 [Hidden Markov Models](#hidden-markov-models)
   
-3. Neural Networks(#neural-networks)
+3. [Neural Networks](#neural-networks)
 4. Natural Language Processing
 5. Reinforcement Learning
 
