@@ -14,8 +14,9 @@ Tasks associated with the course Machine Learning with Python in  freeCodeCamp
     2.4 [Hidden Markov Models](#hidden-markov-models)
   
 3. [Neural Networks](#neural-networks)
-4. Natural Language Processing
-5. Reinforcement Learning
+4. [Convolutional Neural Networks](#convolutional-neural-networks)
+5. Natural Language Processing
+6. Reinforcement Learning
 
 
 ## [Introduction to Tensorflow](https://github.com/Nemat-Allah-Aloush/Machine-Learning-with-Python/blob/main/Introduction_to_Tensorflow.ipynb)
@@ -35,5 +36,9 @@ In this file we can find a simple explination about Clustering and K-Means algor
 In this file, Hidden Markov Models are simply explained and then an example was developed.
 The task was to build a weather model that can predict the weather on any given day, given the probability of different events occuring.
 
-## [Neural Networks](#https://github.com/Nemat-Allah-Aloush/Machine-Learning-with-Python/blob/main/Neural_Network.ipynb)
+## [Neural Networks](https://github.com/Nemat-Allah-Aloush/Machine-Learning-with-Python/blob/main/Neural_Network.ipynb)
 In this file, there is a simple explination about the basics of a neural network. Moreover, there is an example of building a neural network to predict the content of an image based on the Fashion MNIST dataset from Keras.
+
+## [Convolutional Neural Networks](https://github.com/Nemat-Allah-Aloush/Machine-Learning-with-Python/blob/main/Convolutional_Neural_Network.ipynb)
+In this file, there is an explination about the basics of a convolutional neural network, and its architecture. Moreover, there is an example of building a convolutional neural network to predict the class of an image on the CIAFR dataset from Keras. 
+In addition, there is an explaination about augmentation the datasets, and about using a pretrained model in order to deal with small datasets. Moreover, a model based on a pretrained model from tensorflow was built to distinguish dogs from cats images. The dataset used is provided from Tensorflow.
