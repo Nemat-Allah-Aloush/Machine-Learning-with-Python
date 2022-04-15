@@ -50,10 +50,10 @@ In this file, there is an explination about the basics of a convolutional neural
 In addition, there is an explaination about augmentation the datasets, and about using a pretrained model in order to deal with small datasets. Moreover, a model based on a pretrained model from tensorflow was built to distinguish dogs from cats images. The dataset used is provided from Tensorflow.
 
 ## [Natural Language Processing](https://github.com/Nemat-Allah-Aloush/Machine-Learning-with-Python/tree/main/Natural%20Language%20Processing)
-###[Introduction](https://github.com/Nemat-Allah-Aloush/Machine-Learning-with-Python/blob/main/Natural%20Language%20Processing/NLP_BagOfWords.ipynb)
+### [Introduction](https://github.com/Nemat-Allah-Aloush/Machine-Learning-with-Python/blob/main/Natural%20Language%20Processing/NLP_BagOfWords.ipynb)
 In this file we can fins a small introduction to NLP and an example of Bag Of Words representation.
 
-###[Sentiment Analysis](https://github.com/Nemat-Allah-Aloush/Machine-Learning-with-Python/blob/main/Natural%20Language%20Processing/Sentiment_Analysis.ipynb)
+### [Sentiment Analysis](https://github.com/Nemat-Allah-Aloush/Machine-Learning-with-Python/blob/main/Natural%20Language%20Processing/Sentiment_Analysis.ipynb)
 The task in this file is to analyze sentiment in movies reviews. 
 
-###[A Play Generator]()
+### [A Play Generator]()
