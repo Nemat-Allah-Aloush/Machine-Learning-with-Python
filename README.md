@@ -59,5 +59,5 @@ The task in this file is to analyze sentiment in movies reviews.
 ### [A Play Generator](https://github.com/Nemat-Allah-Aloush/Machine-Learning-with-Python/blob/main/Natural%20Language%20Processing/NLP_Play_Generator.ipynb)
 In this file a RNN model to generate text was created and trained on Romeo and  Juliet play.
 
-### [Reinforcement Learning](https://github.com/Nemat-Allah-Aloush/Machine-Learning-with-Python/blob/main/Reinforcement_Learning.ipynb)
+## [Reinforcement Learning](https://github.com/Nemat-Allah-Aloush/Machine-Learning-with-Python/blob/main/Reinforcement_Learning.ipynb)
 In this file we have a simple introduction to Reinforcement Learning with a simple example about Q-learning technique.
