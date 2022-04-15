@@ -22,7 +22,7 @@ Tasks associated with the course Machine Learning with Python in  freeCodeCamp
     5.2 [Sentiment Analysis](#sentiment_analysis)
     
     5.3 [A Play Generator](#a-play-generator)
-6. Reinforcement Learning
+6. [Reinforcement Learning](#reinforcement-learning)
 
 
 ## [Introduction to Tensorflow](https://github.com/Nemat-Allah-Aloush/Machine-Learning-with-Python/blob/main/Introduction_to_Tensorflow.ipynb)
