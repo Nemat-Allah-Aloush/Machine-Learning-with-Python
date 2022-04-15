@@ -56,4 +56,5 @@ In this file we can fins a small introduction to NLP and an example of Bag Of Wo
 ### [Sentiment Analysis](https://github.com/Nemat-Allah-Aloush/Machine-Learning-with-Python/blob/main/Natural%20Language%20Processing/Sentiment_Analysis.ipynb)
 The task in this file is to analyze sentiment in movies reviews. 
 
-### [A Play Generator]()
+### [A Play Generator](https://github.com/Nemat-Allah-Aloush/Machine-Learning-with-Python/blob/main/Natural%20Language%20Processing/NLP_Play_Generator.ipynb)
+In this file a RNN model to generate text was created and trained on Romeo and  Jolliet play.
