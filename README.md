@@ -16,8 +16,11 @@ Tasks associated with the course Machine Learning with Python in  freeCodeCamp
 3. [Neural Networks](#neural-networks)
 4. [Convolutional Neural Networks](#convolutional-neural-networks)
 5. [Natural Language Processing](#natural-language-processing)
+
     5.1 [Introduction](#introduction)
+    
     5.2 [Sentiment Analysis](#sentiment_analysis)
+    
     5.3 [A Play Generator](#a-play-generator)
 6. Reinforcement Learning
 
