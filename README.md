@@ -23,7 +23,9 @@ Tasks associated with the course Machine Learning with Python in  freeCodeCamp
     
     5.3 [A Play Generator](#a-play-generator)
 6. [Reinforcement Learning](#reinforcement-learning)
-
+7. [Certificate Projects](#certificate-projects)
+    
+    7.1[Cats and Dogs Classification](#cats-and-dogs-classification)
 
 ## [Introduction to Tensorflow](https://github.com/Nemat-Allah-Aloush/Machine-Learning-with-Python/blob/main/Introduction_to_Tensorflow.ipynb)
 In this file there is a simple introduction to Tensorflow. Introduction to tensors their properties and basic operation to be applied on them.
@@ -61,3 +63,8 @@ In this file a RNN model to generate text was created and trained on Romeo and  
 
 ## [Reinforcement Learning](https://github.com/Nemat-Allah-Aloush/Machine-Learning-with-Python/blob/main/Reinforcement_Learning.ipynb)
 In this file we have a simple introduction to Reinforcement Learning with a simple example about Q-learning technique.
+
+##[Certificate Projects](https://github.com/Nemat-Allah-Aloush/Machine-Learning-with-Python/tree/main/Certificate%20Projects)
+
+###[Cats and Dogs Classification](https://github.com/Nemat-Allah-Aloush/Machine-Learning-with-Python/blob/main/Certificate%20Projects/Classification_cat_dog.ipynb)
+The task of this project is to creat a CNN to classify dogs and cats images using a small dataset. To overcome these obtacles I have applied Data Augmentation and used a pretrained VGG net as the base of the classification mode.
