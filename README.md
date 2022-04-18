@@ -64,7 +64,7 @@ In this file a RNN model to generate text was created and trained on Romeo and  
 ## [Reinforcement Learning](https://github.com/Nemat-Allah-Aloush/Machine-Learning-with-Python/blob/main/Reinforcement_Learning.ipynb)
 In this file we have a simple introduction to Reinforcement Learning with a simple example about Q-learning technique.
 
-##[Certificate Projects](https://github.com/Nemat-Allah-Aloush/Machine-Learning-with-Python/tree/main/Certificate%20Projects)
+## [Certificate Projects](https://github.com/Nemat-Allah-Aloush/Machine-Learning-with-Python/tree/main/Certificate%20Projects)
 
-###[Cats and Dogs Classification](https://github.com/Nemat-Allah-Aloush/Machine-Learning-with-Python/blob/main/Certificate%20Projects/Classification_cat_dog.ipynb)
+### [Cats and Dogs Classification](https://github.com/Nemat-Allah-Aloush/Machine-Learning-with-Python/blob/main/Certificate%20Projects/Classification_cat_dog.ipynb)
 The task of this project is to creat a CNN to classify dogs and cats images using a small dataset. To overcome these obtacles I have applied Data Augmentation and used a pretrained VGG net as the base of the classification mode.
