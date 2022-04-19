@@ -29,7 +29,7 @@ Tasks associated with the course Machine Learning with Python in  freeCodeCamp
 
     7.2 [Book Recommendation Engine](#book-recommendation-engine)
 
-    7.3[Linear Regression Health Costs Calculator](linear-regression-health-costs-calculator)
+    7.3[Linear Regression Health Costs Calculator](#linear-regression-health-costs-calculator)
 
 ## [Introduction to Tensorflow](https://github.com/Nemat-Allah-Aloush/Machine-Learning-with-Python/blob/main/Introduction_to_Tensorflow.ipynb)
 In this file there is a simple introduction to Tensorflow. Introduction to tensors their properties and basic operation to be applied on them.
