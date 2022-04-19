@@ -29,6 +29,8 @@ Tasks associated with the course Machine Learning with Python in  freeCodeCamp
 
     7.2 [Book Recommendation Engine](#book-recommendation-engine)
 
+    7.3[Linear Regression Health Costs Calculator](linear-regression-health-costs-calculator)
+
 ## [Introduction to Tensorflow](https://github.com/Nemat-Allah-Aloush/Machine-Learning-with-Python/blob/main/Introduction_to_Tensorflow.ipynb)
 In this file there is a simple introduction to Tensorflow. Introduction to tensors their properties and basic operation to be applied on them.
 
@@ -73,3 +75,6 @@ The task of this project is to creat a CNN to classify dogs and cats images usin
 
 ### [Book Recommendation Engine](https://github.com/Nemat-Allah-Aloush/Machine-Learning-with-Python/blob/main/Certificate%20Projects/Book_Recommendation_knn.ipynb)
 The task is to develop a Book Recommendation Engine using KNN algorithm and a dataset that contains 1.1 million ratings (scale of 1-10) of 270,000 books by 90,000 users.
+
+### [Linear Regression Health Costs Calculator](https://github.com/Nemat-Allah-Aloush/Machine-Learning-with-Python/blob/main/Certificate%20Projects/Predict_Health_Costs_with_Regression.ipynb)
+The task is to predict the cost of health care for a person depending on their age, sex, BMI value,	number of children,	smoking situation, and their region.
