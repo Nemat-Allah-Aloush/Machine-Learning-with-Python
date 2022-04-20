@@ -1,5 +1,5 @@
 # Machine-Learning-with-Python
-Tasks associated with the course Machine Learning with Python in  freeCodeCamp
+Tasks associated with the course Machine Learning with Python at freeCodeCamp. The associated certificate based on this course can be found [here](Nemat-Allah-Aloush/Machine-Learning-with-Python).
 
 ## Index
 1. [Introduction to Tensorflow](#introduction-to-tensorflow)
